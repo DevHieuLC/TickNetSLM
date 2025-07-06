@@ -1,4 +1,4 @@
-# TickNets: Transitional patterns for tick-shape backbones
+# Transitional Patterns for Tick-Shape Backbones
 
 **Abstract:**
 
